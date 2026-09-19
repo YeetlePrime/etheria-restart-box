@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-09-18T10:41:45.168Z",
+  "updatedAt": "2026-09-19T12:53:26.287Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -296,7 +296,7 @@
       "characterSlug": "danvery",
       "owned": true,
       "prowess": 1,
-      "skill1": 1,
+      "skill1": 5,
       "skill2": 1,
       "skill3": 1,
       "awakened": false,
