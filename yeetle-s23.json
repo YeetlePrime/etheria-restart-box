@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-09-28T05:41:43.165Z",
+  "updatedAt": "2026-09-28T08:17:06.836Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -267,7 +267,7 @@
       "skill2": 1,
       "skill3": 1,
       "awakened": false,
-      "notes": ""
+      "notes": "6*"
     },
     {
       "id": "dd35246b-f274-4561-8591-49e8ecc61a46",
@@ -411,6 +411,17 @@
       "skill3": 4,
       "awakened": false,
       "notes": "6*"
+    },
+    {
+      "id": "025ebeb4-0ffa-4152-9b6d-411a0fb9de38",
+      "characterSlug": "lilith",
+      "owned": false,
+      "prowess": 0,
+      "skill1": 1,
+      "skill2": 1,
+      "skill3": 1,
+      "awakened": false,
+      "notes": ""
     }
   ]
 }
