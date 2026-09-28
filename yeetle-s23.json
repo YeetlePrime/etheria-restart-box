@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-09-28T08:17:06.836Z",
+  "updatedAt": "2026-09-28T11:18:09.165Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -328,7 +328,7 @@
       "id": "8155cc9f-8421-401a-8339-7e048bccc18b",
       "characterSlug": "valerian",
       "owned": true,
-      "prowess": 4,
+      "prowess": 5,
       "skill1": 5,
       "skill2": 5,
       "skill3": 5,
@@ -350,7 +350,7 @@
       "id": "4459a4f1-53b5-41c1-9117-6007cbe83a6d",
       "characterSlug": "rc-77",
       "owned": true,
-      "prowess": 3,
+      "prowess": 4,
       "skill1": 1,
       "skill2": 1,
       "skill3": 1,
