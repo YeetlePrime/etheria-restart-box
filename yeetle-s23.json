@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-09-28T11:18:09.165Z",
+  "updatedAt": "2026-09-29T06:44:15.982Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -263,7 +263,7 @@
       "characterSlug": "lowan",
       "owned": true,
       "prowess": 0,
-      "skill1": 1,
+      "skill1": 5,
       "skill2": 1,
       "skill3": 1,
       "awakened": false,
