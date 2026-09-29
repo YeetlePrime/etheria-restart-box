@@ -34,8 +34,8 @@ The images containing the box information have been generated with the [Etheria 
 
 **XP needed to max a unit**:
 
-| Unit | XP needed   | #yellow investigation records |
-|:-----|------------:|------------------------------:|
-| R    | 1,842,580XP |                         ~ 369 |
-| SR   | 1,835,780XP |                         ~ 367 |
-| SSR  | 1,804,780XP |                         ~ 361 |
+| Unit | XP needed   | #yellow investigation records | #purple investigation records | #blue investigation records |
+|:-----|------------:|------------------------------:|------------------------------:|----------------------------:|
+| R    | 1,842,580XP |                         ~ 369 |                       ~ 1,843 |                     ~ 9,213 |
+| SR   | 1,835,780XP |                         ~ 367 |                       ~ 1,836 |                     ~ 9,179 |
+| SSR  | 1,804,780XP |                         ~ 361 |                       ~ 1,805 |                     ~ 9,024 |
