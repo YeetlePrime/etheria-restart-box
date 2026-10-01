@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-01T13:35:17.662Z",
+  "updatedAt": "2026-10-01T18:59:24.868Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -76,7 +76,7 @@
       "characterSlug": "xuan-chi",
       "owned": true,
       "prowess": 0,
-      "skill1": 2,
+      "skill1": 4,
       "skill2": 5,
       "skill3": 5,
       "awakened": false,
