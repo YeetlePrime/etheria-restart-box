@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-01T07:20:01.682Z",
+  "updatedAt": "2026-10-01T09:19:42.717Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -163,7 +163,7 @@
       "id": "90e9cda7-9de9-491e-978e-0fa18cd95956",
       "characterSlug": "freya",
       "owned": true,
-      "prowess": 1,
+      "prowess": 2,
       "skill1": 1,
       "skill2": 1,
       "skill3": 1,
