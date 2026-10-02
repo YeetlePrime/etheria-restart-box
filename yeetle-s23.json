@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-02T10:12:55.530Z",
+  "updatedAt": "2026-10-02T10:20:29.979Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -76,7 +76,7 @@
       "characterSlug": "xuan-chi",
       "owned": true,
       "prowess": 0,
-      "skill1": 4,
+      "skill1": 5,
       "skill2": 5,
       "skill3": 5,
       "awakened": false,
@@ -407,7 +407,7 @@
       "owned": true,
       "prowess": 0,
       "skill1": 5,
-      "skill2": 3,
+      "skill2": 4,
       "skill3": 4,
       "awakened": false,
       "notes": "6*"
@@ -482,6 +482,17 @@
       "id": "44ebe9ed-d2f9-49fc-9207-52762afa678b",
       "characterSlug": "xiada",
       "owned": true,
+      "prowess": 0,
+      "skill1": 1,
+      "skill2": 1,
+      "skill3": 1,
+      "awakened": false,
+      "notes": ""
+    },
+    {
+      "id": "9318deb9-3ecf-4685-9e7b-d65d1eb8e92d",
+      "characterSlug": "kethos",
+      "owned": false,
       "prowess": 0,
       "skill1": 1,
       "skill2": 1,
