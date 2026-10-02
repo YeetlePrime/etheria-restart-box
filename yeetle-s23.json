@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-02T09:57:07.316Z",
+  "updatedAt": "2026-10-02T10:12:55.530Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -340,9 +340,9 @@
       "characterSlug": "viper",
       "owned": true,
       "prowess": 5,
-      "skill1": 1,
-      "skill2": 1,
-      "skill3": 1,
+      "skill1": 5,
+      "skill2": 5,
+      "skill3": 5,
       "awakened": false,
       "notes": ""
     },
