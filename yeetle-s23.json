@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-02T10:20:29.979Z",
+  "updatedAt": "2026-10-04T11:35:41.210Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -311,7 +311,7 @@
       "skill2": 1,
       "skill3": 1,
       "awakened": false,
-      "notes": ""
+      "notes": "6*"
     },
     {
       "id": "5b7c366d-f2e7-4769-9f62-0a7ec3c61caa",
@@ -407,8 +407,8 @@
       "owned": true,
       "prowess": 0,
       "skill1": 5,
-      "skill2": 4,
-      "skill3": 4,
+      "skill2": 5,
+      "skill3": 5,
       "awakened": false,
       "notes": "6*"
     },
