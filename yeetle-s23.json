@@ -3,7 +3,7 @@
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-15T07:27:50.336Z",
+  "updatedAt": "2026-10-15T07:29:28.812Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -449,7 +449,7 @@
       "id": "98a973f6-66b4-44c5-a124-6fd56a0cd476",
       "characterSlug": "bornova",
       "owned": true,
-      "prowess": 0,
+      "prowess": 1,
       "skill1": 1,
       "skill2": 1,
       "skill3": 1,
