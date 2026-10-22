@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
-  "spareLattice": 3,
+  "spareLattice": 7,
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-16T12:09:21.615Z",
+  "updatedAt": "2026-10-22T07:53:57.427Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -493,7 +493,7 @@
     {
       "id": "9318deb9-3ecf-4685-9e7b-d65d1eb8e92d",
       "characterSlug": "kethos",
-      "owned": false,
+      "owned": true,
       "prowess": 0,
       "skill1": 1,
       "skill2": 1,
@@ -504,6 +504,17 @@
     {
       "id": "8c13008b-a483-499a-b015-f2ad290507d2",
       "characterSlug": "syen",
+      "owned": true,
+      "prowess": 0,
+      "skill1": 1,
+      "skill2": 1,
+      "skill3": 1,
+      "awakened": false,
+      "notes": ""
+    },
+    {
+      "id": "3c9a74a0-b6b9-4602-8c3b-b9e6178693bb",
+      "characterSlug": "luvia",
       "owned": true,
       "prowess": 0,
       "skill1": 1,
