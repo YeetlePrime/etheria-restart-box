@@ -4,7 +4,7 @@
   "ownerName": "Yeetle",
   "spareLattice": 7,
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-10-22T07:53:57.427Z",
+  "updatedAt": "2026-10-22T07:54:43.983Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -499,7 +499,7 @@
       "skill2": 1,
       "skill3": 1,
       "awakened": false,
-      "notes": ""
+      "notes": "6*"
     },
     {
       "id": "8c13008b-a483-499a-b015-f2ad290507d2",
