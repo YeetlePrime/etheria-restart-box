@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "sessionName": "Yeetle-S23",
   "ownerName": "Yeetle",
-  "spareLattice": 0,
+  "spareLattice": 2,
   "createdAt": "2026-09-18T10:31:53.222Z",
-  "updatedAt": "2026-11-12T12:10:30.768Z",
+  "updatedAt": "2026-11-12T12:35:32.006Z",
   "units": [
     {
       "id": "75ef5e86-35db-4db5-b0f3-37b3aa0a9aa9",
@@ -67,7 +67,7 @@
       "owned": true,
       "prowess": 1,
       "skill1": 5,
-      "skill2": 1,
+      "skill2": 5,
       "skill3": 5,
       "awakened": false,
       "notes": "6*"
@@ -507,7 +507,7 @@
       "owned": true,
       "prowess": 5,
       "skill1": 5,
-      "skill2": 4,
+      "skill2": 5,
       "skill3": 5,
       "awakened": false,
       "notes": "6*"
